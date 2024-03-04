@@ -15,7 +15,7 @@ with st.expander("App Description"):
     st.write("""
     This app allows you to generate QR Codes for any url or any text string you want to encode.  QR Codes are generated using the [qrcode](https://pypi.org/project/qrcode/) python package.
     
-    POC: Your Name, first.last@nps.edu
+    POC: LTC Matt Smith, matthew.smith@nps.edu
     """)
 
 #Add text input
